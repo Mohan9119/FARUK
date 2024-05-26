@@ -1,0 +1,6 @@
+1,ramu,b,22,r@r.com,60000
+2,vijay,m,26,y@y.com,90000
+3,bhanu,p,24,u@u.com,40000
+4,venu,a,25,v@v.com,50000
+5,rekha,b,22,a@a.com,80000
+6,mohan,r,29,x@c.com,70000
